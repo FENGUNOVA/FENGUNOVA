@@ -131,7 +131,8 @@ Languages and Tools:
   /></a>
 </p>
 
-My GitHub Stats ---------
+My GitHub Stats
+---------
 
 <p align="center">
   <img
